@@ -6,3 +6,8 @@ joblib
 matplotlib
 seaborn
 numpy
+pymongo
+pydantic
+pydantic_settings
+python-dotenv
+ipykernel
