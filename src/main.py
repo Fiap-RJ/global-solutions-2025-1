@@ -38,7 +38,7 @@ async def lifespan(_: FastAPI):
 
 
 app = FastAPI(
-    title="API de Análise de Risco Climático Modular",
+    title="API de Análise de Risco Climático",
     description="""Uma API que utiliza um modelo de Machine Learning para 
     prever o risco climático instantâneo com base na temperatura e umidade.""",
     version="1.0.0",
